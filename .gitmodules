@@ -1,0 +1,4 @@
+[submodule "drivers/net/wireless/mediatek/mt7668s"]
+	path = drivers/net/wireless/mediatek/mt7668s
+	url = https://github.com/yhpgi/mt7668s.git
+	branch = unstable
