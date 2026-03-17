@@ -1,0 +1,18 @@
+# SPDX-License-Identifier: GPL-2.0
+.*
+*.c.[012]
+*.ko
+*.lex.c
+*.mod
+*.mod.c
+*.o
+*.o.*
+*.patch
+*.symversions
+*.tab.[ch]
+Module.symvers
+modules.order
+
+!.gitattributes
+!.gitignore
+!.format
